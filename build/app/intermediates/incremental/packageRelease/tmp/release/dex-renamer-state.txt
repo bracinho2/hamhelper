@@ -1,0 +1,4 @@
+#Thu May 14 22:44:19 BRT 2020
+base.0=/Users/bracinho2/AndroidStudioProjects/hamhelper/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
